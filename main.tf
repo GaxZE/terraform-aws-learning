@@ -106,7 +106,7 @@ resource "aws_instance" "web-server-instance" {
   ami               = var.ec2_ami
   instance_type     = "t2.micro"
   availability_zone = var.availability_zone
-  key_name          = "freecode-access-key"
+  key_name          = var.ec2_key_name
 
   network_interface {
     device_index         = 0
