@@ -1,0 +1,6 @@
+region = "aws-region"
+access_key = "access-key"
+secret_key = "secret-key"
+availability_zone = "aws-availability-zone"
+ec2_ami = "ami-id"
+ec2_key_name = "key-name"
