@@ -1,4 +1,4 @@
-# Learning how to use Terraform with AWS
+# Learning how to setup AWS with Terraform
 
 Simply following the video(_click image to watch video_): 
 
